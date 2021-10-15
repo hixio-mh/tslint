@@ -63,7 +63,7 @@
         "chai": "^3.5.0",
         "husky": "^0.14.3",
         "json-stringify-pretty-compact": "^1.2.0",
-        "mocha": "^6.1.4",
+        "mocha": "^9.1.2",
         "npm-run-all": "^4.0.2",
         "nyc": "^14.1.1",
         "prettier": "~1.16.4",
